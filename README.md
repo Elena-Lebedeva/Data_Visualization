@@ -49,7 +49,20 @@ This repository contains documentation and direct access to high-leverage Busine
 
 ---
 
+## 🎨 Tableau Public Portfolio
+**[Explore My Full Tableau Profile](https://public.tableau.com/app/profile/elena.lebedeva/vizzes)**
+
+While this repository hosts technical documentation for Data Studio, my broader visualization portfolio is hosted on Tableau Public. This collection includes:
+* **Exploratory Data Analysis (EDA):** Deep dives into complex sociological and operational datasets.
+* **Advanced Visual Analytics:** High-impact dashboards utilizing complex LOD expressions and parameter actions.
+* **Featured Projects:** Highlights from various "Viz for Social Good" collaborations.
+
+<p align="center">
+  <img src="Tableau_Portfolio/Tableau_Overview.png" width="800" alt="Tableau Profile Overview">
+</p>
+
+---
 ## 🛠 Technical Stack
-* **Platform:** Google Data Studio
+* **Platform:** Google Data Studio, Tableau Public
 * **Data Architecture:** SQL, BigQuery, Excel/G-Sheets
 * **Methodology:** Root Cause Analysis, Longitudinal Trend Mapping, and Sociological Research Frameworks.
