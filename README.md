@@ -1,20 +1,3 @@
-# Data_Visualization
-
-Bhumi: Empowering Change Through Volunteering
-Corporate Volunteering Insights 2024-2025
-https://datastudio.google.com/s/tE6szt536To
-
-No Kill Colorado
-Return-to-Owner (RTO) rate & life-saving strategies (2015–2024)
-https://datastudio.google.com/s/j-PypbBxcPo
-
-Kheyti: 10 Years of Growth
-Enabling climate-resilient livelihoods for smallholder farmers
-https://datastudio.google.com/s/hBHzKY5yUJI
-
-Advancing Torture Prevention: Progress from 1984 to 2024
-https://datastudio.google.com/s/lFYl5xP3GNk
-
 # Data Visualization & Social Impact Portfolio
 
 This repository contains documentation and direct access to high-leverage Business Intelligence projects developed for global non-profit organizations. These dashboards translate complex operational and sociological datasets into actionable insights to drive policy change, resource allocation, and climate resilience.
@@ -55,11 +38,7 @@ This repository contains documentation and direct access to high-leverage Busine
 While this repository hosts technical documentation for Data Studio, my broader visualization portfolio is hosted on Tableau Public. This collection includes:
 * **Exploratory Data Analysis (EDA):** Deep dives into complex sociological and operational datasets.
 * **Advanced Visual Analytics:** High-impact dashboards utilizing complex LOD expressions and parameter actions.
-* **Featured Projects:** Highlights from various "Viz for Social Good" collaborations.
-
-<p align="center">
-  <img src="Tableau_Portfolio/Tableau_Overview.png" width="800" alt="Tableau Profile Overview">
-</p>
+* **Featured Projects:** Highlights from various collaborations.
 
 ---
 ## 🛠 Technical Stack
